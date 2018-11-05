@@ -43,5 +43,7 @@ int main() {
 	Point point3(7);
 	cout << point3.x << " " << point3.y << "\n";	
     
+	Point point4{2 , 10};
+	cout << point4.x << " " << point4.y << "\n";
     return 0;
 }
