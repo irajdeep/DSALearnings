@@ -1,5 +1,4 @@
 # DSA-CPPLearnings
-Some random coding questions.
+* Some random coding questions.
+* The Algorithm Design Manual book by Steven Skiena: Exercises
 
-## Compare function :
-* http://fusharblog.com/3-ways-to-define-comparison-functions-in-cpp/
