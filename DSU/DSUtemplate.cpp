@@ -5,10 +5,6 @@ https://www.geeksforgeeks.org/union-find/
 #include <algorithm>
 #include <vector>
 #include <map>
-#include <cmath>
-#include <set>
-#include <queue>
-#include <stack>
 #include <string>
 
 const long long MAXN = 1e7;
